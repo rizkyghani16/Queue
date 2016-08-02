@@ -15,6 +15,8 @@
      temp->Data=value;
      if (front == NULL)
      {
-     
-	 }
+           front=temp;
+           front->next=NULL;
+           rear=front;
+     }
 }
