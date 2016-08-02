@@ -13,5 +13,8 @@
      struct Node *temp;
      temp=(struct Node *)malloc(sizeof(struct Node));
      temp->Data=value;
+     if (front == NULL)
+     {
      
+	 }
 }
