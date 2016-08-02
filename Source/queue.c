@@ -44,7 +44,13 @@ void muncul()
      struct Node *var=rear;
      if(var!=NULL)
      {
-		
-	 }
+           printf("\nNomornya adalah :  ");
+           while(var!=NULL)
+           {
+                printf("\t%d",var->Data);
+                var=var->next;
+           }
+     printf("\n");
+     } 
 }
 
