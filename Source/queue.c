@@ -7,3 +7,8 @@
         int Data;
         struct Node* next;
  }*rear, *front;
+ 
+ void kirim(int value)
+{
+     
+}
