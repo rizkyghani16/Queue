@@ -80,6 +80,12 @@ int main()
                      muncul();
                      break;
                 }
+                case 2:
+                {
+                     hapus();
+                     muncul();
+                     break;
+                }
           }
      }
 }
