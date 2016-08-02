@@ -90,6 +90,10 @@ int main()
                 {
                      exit(0);
                 }
+                default:
+                {
+                     printf("\nPilihlah sesuai menu");
+                }
           }
      }
 }
