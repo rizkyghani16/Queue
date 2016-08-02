@@ -65,4 +65,8 @@ int main()
      printf(" \n2. Hapus Nomor");
      printf(" \n3. Keluar \n");
      printf("===================\n");
+     while(1)
+     {
+          
+     }
 }
