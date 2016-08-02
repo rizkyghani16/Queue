@@ -39,3 +39,8 @@ void hapus()
       printf("\nTidak ada queue");
 }
 
+void muncul()
+{
+     
+}
+
