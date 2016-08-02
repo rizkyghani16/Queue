@@ -30,5 +30,9 @@
 void hapus()
 {
        struct Node *temp, *var=rear;
+      if(var==rear)
+      {
+	  
+	  }
 }
 
