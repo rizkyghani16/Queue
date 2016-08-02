@@ -6,4 +6,4 @@
  {
         int Data;
         struct Node* next;
- }
+ }*rear, *front;
