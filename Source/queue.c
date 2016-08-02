@@ -29,6 +29,6 @@
 
 void hapus()
 {
-
+       struct Node *temp, *var=rear;
 }
 
