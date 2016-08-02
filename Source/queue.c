@@ -21,6 +21,8 @@
      }
      else
      {
-     
+           front->next=temp;
+           front=temp;
+           front->next=NULL;
      }
 }
