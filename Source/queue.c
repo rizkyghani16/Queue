@@ -26,3 +26,9 @@
            front->next=NULL;
      }
 }
+
+void hapus()
+{
+
+}
+
