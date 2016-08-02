@@ -19,4 +19,8 @@
            front->next=NULL;
            rear=front;
      }
+     else
+     {
+     
+     }
 }
