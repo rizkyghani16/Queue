@@ -67,6 +67,19 @@ int main()
      printf("===================\n");
      while(1)
      {
-          
+          printf(" \nPilih salah satu : ");
+          scanf("%d",&i);
+          switch(i)
+          {
+                case 1:
+                {
+                     int value;
+                     printf("\nMasukan angka : ");
+                     scanf("%d",&value);
+                     kirim(value); 
+                     muncul();
+                     break;
+                }
+          }
      }
 }
