@@ -34,6 +34,8 @@ void hapus()
       {
              rear = rear->next;
              free(var);
-      }      
+      }
+      else
+      printf("\nTidak ada queue");
 }
 
