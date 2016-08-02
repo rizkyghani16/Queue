@@ -86,6 +86,10 @@ int main()
                      muncul();
                      break;
                 }
+                case 3:
+                {
+                     exit(0);
+                }
           }
      }
 }
