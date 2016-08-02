@@ -56,3 +56,7 @@ void muncul()
      printf("\nQueue kosong");
 }
 
+int main()
+{
+     
+}
