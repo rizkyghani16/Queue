@@ -10,5 +10,8 @@
  
  void kirim(int value)
 {
+     struct Node *temp;
+     temp=(struct Node *)malloc(sizeof(struct Node));
+     temp->Data=value;
      
 }
