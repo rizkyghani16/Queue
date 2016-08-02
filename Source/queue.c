@@ -41,6 +41,6 @@ void hapus()
 
 void muncul()
 {
-     
+     struct Node *var=rear;
 }
 
