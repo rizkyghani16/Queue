@@ -58,5 +58,11 @@ void muncul()
 
 int main()
 {
-     
+     int i=0;
+     front=NULL;
+     printf("===================");
+     printf(" \n1. Masukan Nomor");
+     printf(" \n2. Hapus Nomor");
+     printf(" \n3. Keluar \n");
+     printf("===================\n");
 }
